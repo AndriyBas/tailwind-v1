@@ -7,10 +7,10 @@ module.exports = {
         128: "32rem",
       },
     },
-    fontFamily: {
-      sans: ["Mulish", "sans-serif"],
-      mono: ["Rokkitt", "monospace"],
-    },
+    // fontFamily: {
+    //   sans: ["Mulish", "sans-serif"],
+    //   mono: ["Rokkitt", "monospace"],
+    // },
   },
   plugins: [],
 };
